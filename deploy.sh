@@ -4,4 +4,6 @@ deploy in the den env
 This is a deployment app for tesla
 deployment4
 deployment5 master
-hello world 
+hello world
+echo good job 
+tested and accepted 
